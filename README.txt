@@ -89,6 +89,9 @@ Performing CRUD operations using MySQL
 Working with role-based access
 Managing job applications and statuses
 Building a console-based Java application
+🎥 Project Demo Video
+
+https://drive.google.com/drive/folders/12qh6rxbp2cBfh2p3eBrTTQLTNM_8iV_0?usp=drive_link
 🔮 Future Enhancements
 Graphical User Interface using Java Swing
 Password hashing and improved security
